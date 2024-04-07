@@ -1,0 +1,13 @@
+
+.feed-item {
+    padding: 10rpx 20rpx;
+
+    &-title {
+        font-size: bold;
+        font-size: 32rpx;
+    }
+    &-desc {
+        font-size: 28rpx;
+        color: #666;
+    }
+}

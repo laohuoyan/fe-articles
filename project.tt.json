@@ -1,0 +1,13 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "fe-articles",
+  "description": "前端最新热门文章",
+  "appid": "touristappid",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram"
+}
